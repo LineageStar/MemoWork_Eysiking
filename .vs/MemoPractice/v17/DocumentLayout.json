@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "E:\\Unity\\Project\\MemoPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\Player\\GetScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\GetScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\Player\\PlayMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\Unapparance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Unapparance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\RotateSelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\RotateSelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\Clear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Clear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\STOPZ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\STOPZ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\Shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\PlayMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Project\\MemoPractice\\Assets\\PlayerDie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerDie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +74,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotateSelf.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\RotateSelf.cs",
+              "RelativeDocumentMoniker": "Assets\\RotateSelf.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\RotateSelf.cs",
+              "RelativeToolTip": "Assets\\RotateSelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:47:07.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Rotate.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:43:26.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:22:21.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetScore.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\Player\\GetScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\GetScore.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\Player\\GetScore.cs",
+              "RelativeToolTip": "Assets\\Player\\GetScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:02:25.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "STOPZ.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\STOPZ.cs",
+              "RelativeDocumentMoniker": "Assets\\STOPZ.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\STOPZ.cs",
+              "RelativeToolTip": "Assets\\STOPZ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:21:03.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clear.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\Clear.cs",
+              "RelativeDocumentMoniker": "Assets\\Clear.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\Clear.cs",
+              "RelativeToolTip": "Assets\\Clear.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:14:44.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayMovement.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\Player\\PlayMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayMovement.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\Player\\PlayMovement.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayMovement.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:58:44.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unapparance.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\Unapparance.cs",
+              "RelativeDocumentMoniker": "Assets\\Unapparance.cs",
+              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\Unapparance.cs",
+              "RelativeToolTip": "Assets\\Unapparance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:22.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Shoot.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\Shoot.cs",
               "RelativeDocumentMoniker": "Assets\\Shoot.cs",
@@ -58,12 +188,11 @@
               "RelativeToolTip": "Assets\\Shoot.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:29:59.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:29:59.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "CenterRotate.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\CenterRotate.cs",
               "RelativeDocumentMoniker": "Assets\\CenterRotate.cs",
@@ -71,12 +200,11 @@
               "RelativeToolTip": "Assets\\CenterRotate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:12:17.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:12:17.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "PlayerDie.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\PlayerDie.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerDie.cs",
@@ -88,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "PlayerCollision.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\PlayerCollision.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerCollision.cs",
@@ -100,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "FllowPlayer.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\FllowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\FllowPlayer.cs",
@@ -111,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "\u65CB\u8F6C.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\\u65CB\u8F6C.cs",
               "RelativeDocumentMoniker": "Assets\\\u65CB\u8F6C.cs",
@@ -119,12 +247,11 @@
               "RelativeToolTip": "Assets\\\u65CB\u8F6C.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T01:07:51.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T01:07:51.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "\u5F39\u5C04\u7269\u53D1\u5C04.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\\u5F39\u5C04\u7269\u53D1\u5C04.cs",
               "RelativeDocumentMoniker": "Assets\\\u5F39\u5C04\u7269\u53D1\u5C04.cs",
@@ -136,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Jump.cs",
               "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\Jump.cs",
               "RelativeDocumentMoniker": "Assets\\Jump.cs",
@@ -144,20 +271,7 @@
               "RelativeToolTip": "Assets\\Jump.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T16:50:10.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayMovement.cs",
-              "DocumentMoniker": "E:\\Unity\\Project\\MemoPractice\\Assets\\PlayMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayMovement.cs",
-              "ToolTip": "E:\\Unity\\Project\\MemoPractice\\Assets\\PlayMovement.cs",
-              "RelativeToolTip": "Assets\\PlayMovement.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T16:19:16.126Z"
+              "WhenOpened": "2024-09-30T16:50:10.149Z"
             }
           ]
         }

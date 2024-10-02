@@ -10,7 +10,7 @@ public class PlayMovement : MonoBehaviour
     public int stopZValue = 100;
     public Vector3 customGravity = new Vector3(0, -30f, 0);
     public float ForwordsSpeed = 0.7f;
-    
+
     // Start is called before the first frame update
     void Start() {
         rb = GetComponent<Rigidbody>();
@@ -29,5 +29,6 @@ public class PlayMovement : MonoBehaviour
             //如果你想重新加载场景，可以使用以下代码
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
+        // 获取小球的当前位置
     }
 }
